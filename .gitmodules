@@ -1,0 +1,6 @@
+[submodule "relay-app"]
+	path = relay-app
+	url = https://github.com/geetesh-gupta/relay-app
+[submodule "mobile-iot-relay"]
+	path = mobile-iot-relay
+	url = https://github.com/anshulahuja98/mobile-iot-relay
